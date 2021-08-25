@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923236045838?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://wa.me/923236045838?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20ISMAIL%20SHAH%0AIBAN%3A%20PK90HABB004649510416025663">
+<a href="https://wa.me/923236045838?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20ISMAIL%20SHAH%0AIBAN%3A%PK23MEZN0004160105283884">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
