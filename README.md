@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <!-- <a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=for-the-badge&logo=google&logoColor=ffffff"></a> -->
-<!-- <a href="https://ask.fm/usamasarwarofficial">
-<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=for-the-badge&logo=askfm&logoColor=ffffff"></a> -->
+<a href="https://ask.fm/proismailshah">
+<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=for-the-badge&logo=askfm&logoColor=ffffff"></a>
 <a href="mailto:smily124000@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 <a href="https://m.me/proismailshah/">
