@@ -12,8 +12,8 @@
 - 😄 Pronouns me as `/pro-es-ma-eil-sha/`
 - 🎓 Graduating from Govt Municipal Graduate College
 - 💻 Cross Platform App Developer
-- 🌱 I’m currently learning **Flutter**
-- 🔭 I’m currently working on project **Assignmento**
+- 🌱 I’m currently learning **Backend** and **DevOps**
+- 🔭 I’m currently working on project **Alramsa**
 - ☕️ Coffee Lover 😎 Gym lover
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 - 📱 (+92) 323 60 45 838
