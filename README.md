@@ -1,4 +1,4 @@
-![officialismailshah](https://visitor-badge.glitch.me/badge?page_id=officialismailshah.officialismailshah)
+![Profile views](https://komarev.com/ghpvc/?username=officialismailshah&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_D2EAF33LV-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
 [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.udemy.com/course/flutter-with-firebase/)
